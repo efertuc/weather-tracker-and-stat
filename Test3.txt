@@ -1,0 +1,212 @@
+ID: 0;
+dateNow: 03.01;
+	date: 03.01;
+	temp: -1;
+
+ID: 1;
+dateNow: 03.01;
+	date: 04.01;
+	temp: -1;
+
+ID: 2;
+dateNow: 03.01;
+	date: 05.01;
+	temp: -8;
+
+ID: 3;
+dateNow: 03.01;
+	date: 06.01;
+	temp: -8;
+
+ID: 4;
+dateNow: 03.01;
+	date: 07.01;
+	temp: -8;
+
+//04.01
+
+ID: 5;
+dateNow: 04.01;
+	date: 04.01;
+	temp: -2;
+
+ID: 6;
+dateNow: 04.01;
+	date: 05.01;
+	temp: -9;
+
+ID: 7;
+dateNow: 04.01;
+	date: 06.01;
+	temp: -10;
+
+ID: 8;
+dateNow: 04.01;
+	date: 07.01;
+	temp: -9;
+
+ID: 9;
+dateNow: 04.01;
+	date: 08.01;
+	temp: -12;
+
+//05.01
+
+ID: 10;
+dateNow: 05.01;
+	date: 05.01;
+	temp: -8;
+
+ID: 11;
+dateNow: 05.01;
+	date: 06.01;
+	temp: -7;
+
+ID: 12;
+dateNow: 05.01;
+	date: 07.01;
+	temp: -10;
+
+ID: 13;
+dateNow: 05.01;
+	date: 08.01;
+	temp: -11;
+
+ID: 14;
+dateNow: 05.01;
+	date: 09.01;
+	temp: -9;
+
+//06.01
+
+ID: 15;
+dateNow: 06.01;
+	date: 06.01;
+	temp: -7;
+
+ID: 16;
+dateNow: 06.01;
+	date: 07.01;
+	temp: -11;
+
+ID: 17;
+dateNow: 06.01;
+	date: 08.01;
+	temp: -11;
+
+ID: 18;
+dateNow: 06.01;
+	date: 09.01;
+	temp: -7;
+
+ID: 19;
+dateNow: 06.01;
+	date: 10.01;
+	temp: -2;
+
+//07.01
+ID: 20;
+dateNow: 07.01;
+	date: 07.01;
+	temp: -11;
+
+ID: 21;
+dateNow: 07.01;
+	date: 08.01;
+	temp: -11;
+
+ID: 22;
+dateNow: 07.01;
+	date: 09.01;
+	temp: -7;
+
+ID: 23;
+dateNow: 07.01;
+	date: 10.01;
+	temp: -2;
+
+ID: 24;
+dateNow: 07.01;
+	date: 11.01;
+	temp: 0;
+
+ID: 25;
+dateNow: 08.01;
+	date: 08.01;
+	temp: 1;
+
+ID: 26;
+dateNow: 08.01;
+	date: 09.01;
+	temp: -11;
+
+ID: 27;
+dateNow: 08.01;
+	date: 10.01;
+	temp: -10;
+
+ID: 28;
+dateNow: 08.01;
+	date: 11.01;
+	temp: -5;
+
+ID: 29;
+dateNow: 08.01;
+	date: 12.01;
+	temp: 0;
+
+//09.01
+
+ID: 30;
+dateNow: 09.01;
+	date: 09.01;
+	temp: -3;
+
+ID: 31;
+dateNow: 09.01;
+	date: 10.01;
+	temp: -2;
+
+ID: 32;
+dateNow: 09.01;
+	date: 11.01;
+	temp: -4;
+
+ID: 33;
+dateNow: 09.01;
+	date: 12.01;
+	temp: -1;
+
+ID: 34;
+dateNow: 09.01;
+	date: 13.01;
+	temp: 0;
+
+//10.01
+ID: 35;
+dateNow: 10.01;
+	date: 10.01;
+	temp: -4;
+
+ID: 36;
+dateNow: 10.01;
+	date: 11.01;
+	temp: -2;
+
+ID: 37;
+dateNow: 10.01;
+	date: 12.01;
+	temp:  0;
+
+ID: 38;
+dateNow: 10.01;
+	date: 13.01;
+	temp: -1;
+
+ID: 39;
+dateNow: 10.01;
+	date: 14.01;
+	temp:  0;
+
+
+
